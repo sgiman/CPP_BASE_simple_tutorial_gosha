@@ -1,4 +1,4 @@
-// MyClass.cpp: определяет точку входа для консольного приложения.
+// MyClass.cpp:
 // CLASS ADDREES | My first class
 
 #include "stdafx.h"
@@ -37,12 +37,12 @@ int main()
 
 	MyAddress addr1;
 	cout << "ADDRESS 1: ";
-	addr1.set("Киев", "Соборная", "10A", "20012");
+	addr1.set("ГЉГЁГҐГў", "Г‘Г®ГЎГ®Г°Г­Г Гї", "10A", "20012");
 	addr1.get();
 
 	MyAddress addr2;
 	cout << "ADDRESS 2: ";
-	addr1.set("Kиев", "Крещатик", "44", "20010");
+	addr1.set("KГЁГҐГў", "ГЉГ°ГҐГ№Г ГІГЁГЄ", "44", "20010");
 	addr1.get();
 
 
