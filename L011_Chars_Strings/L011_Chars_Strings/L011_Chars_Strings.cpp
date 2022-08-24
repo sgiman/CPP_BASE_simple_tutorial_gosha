@@ -20,7 +20,7 @@ using namespace std;
 int main()
 {
 	//setlocale(LC_ALL, "ru");				// <clocale> или
-	// setlocale(LC_CTYPE, "Russian");		// <clocale>
+	// setlocale(LC_CTYPE, "Russian");		     	// <clocale>
 	setlocale(LC_CTYPE, "rus");				// <clocale>
 	SetConsoleCP(1251);						// кодировка win-cp 1251 <Windows.h> - только для Windows
 	SetConsoleOutputCP(1251);				// кодировка win-cp 1251 для вывода текста на консоль
