@@ -17,8 +17,8 @@ using namespace std;
 int main(int argc, const char *argv[])
 {
 	cout << "HELLO WORLD!\n";	// cout: OUTPUT MESSAGE 
-	cin.get();					// cin: PAUSE-1 | <iostream>
-	system("pause");			// "PAUSE" form <iostream> : PAUSE-2  | <iostream>
+	cin.get();			// cin: PAUSE-1 | <iostream>
+	system("pause");		// "PAUSE" form <iostream> : PAUSE-2  | <iostream>
 	return 0;
 }
 
