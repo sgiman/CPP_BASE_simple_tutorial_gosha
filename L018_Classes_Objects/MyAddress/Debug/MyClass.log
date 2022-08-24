@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (MyClass.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  stdafx.cpp
+  MyAddress.cpp
+g:\test\_prog_\lang\cc\gosha\уроки c++ с нуля\l018_classes_objects\myclass\myaddress.cpp(43): warning C4101: addr2: неиспользованная локальная переменная
+  MyClass.vcxproj -> G:\TEST\_PROG_\LANG\CC\GOSHA\Уроки C++ с нуля\L018_Classes_Objects\Debug\MyAddress.exe
+  MyClass.vcxproj -> G:\TEST\_PROG_\LANG\CC\GOSHA\Уроки C++ с нуля\L018_Classes_Objects\Debug\MyAddress.pdb (Partial PDB)

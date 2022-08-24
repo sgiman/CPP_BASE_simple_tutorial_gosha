@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L005_Rand_and_Strings", "L005_Rand_and_Strings\L005_Rand_and_Strings.vcxproj", "{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}.Debug|x64.ActiveCfg = Debug|x64
+		{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}.Debug|x64.Build.0 = Debug|x64
+		{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}.Debug|x86.Build.0 = Debug|Win32
+		{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}.Release|x64.ActiveCfg = Release|x64
+		{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}.Release|x64.Build.0 = Release|x64
+		{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}.Release|x86.ActiveCfg = Release|Win32
+		{FF07C800-2DB9-4BC5-9A04-C632FC0D417F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
