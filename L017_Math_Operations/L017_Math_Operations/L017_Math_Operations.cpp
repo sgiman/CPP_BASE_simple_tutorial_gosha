@@ -43,11 +43,11 @@ int main(int arg, char *argv[])
 	cout << "  sin (10)\t" << sin(10) << endl;
 	cout << "  cos (10)\t" << cos(10) << endl;
 	cout << "  sqrt (4)\t" << sqrt(4) << endl;
-	cout << "  ceil (23.67)\t" << ceil(23.67) << endl;		// округление до большего
+	cout << "  ceil (23.67)\t" << ceil(23.67) << endl;	// округление до большего
 	cout << "  floor (23.67)\t" << floor(23.67) << endl;	// округление до меньшего
-	cout << "  exp (1)\t" << exp(1) << endl;				// степень экспоненты
-	cout << "  log (3)\t" << log(4) << endl;				// нат. логарифм (основа эскпонента)
-	cout << "  log10 (3)\t" << log10(4) << endl;			// десятичный логарифм 
+	cout << "  exp (1)\t" << exp(1) << endl;		// степень экспоненты
+	cout << "  log (3)\t" << log(4) << endl;		// нат. логарифм (основа эскпонента)
+	cout << "  log10 (3)\t" << log10(4) << endl;		// десятичный логарифм 
 
 	
 	/************ END ***********/
